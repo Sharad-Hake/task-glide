@@ -19,7 +19,7 @@ A simple and interactive To-Do List app with drag-and-drop, local storage, and t
 ## 🏗 Installation & Usage  
 ### Clone the repository  
 ```bash
-git clone https://github.com/yourusername/taskglide.git
+git clone https://github.com/Sharad-Hake/task-glide.git
 cd taskglide
 npm install
 npm start
