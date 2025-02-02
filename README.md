@@ -9,7 +9,7 @@ A simple and interactive To-Do List app with drag-and-drop, local storage, and t
 ✅ **Delete** tasks when no longer needed  
 
 ## 📸 Screenshot  
-![TaskGlide UI](./screenshot.png)  
+![TaskGlide UI](https://github.com/Sharad-Hake/task-glide/blob/main/Screenshot%20from%202025-02-02%2023-17-43.png)  
 
 ## 🛠 Tech Stack  
 - **React.js** – Frontend framework  
